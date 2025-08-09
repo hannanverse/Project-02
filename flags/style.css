@@ -1,0 +1,657 @@
+.main{
+    width: 400px;
+    height: 200px;
+    background-color:green;
+    display: flex;
+  align-items: center;
+  justify-content: center;
+  border-style: solid;
+ 
+
+  
+}
+.one{
+    width: 150px;
+    height: 150px;
+    background-color: rgb(255, 0, 0);
+      border-radius: 50%;
+}
+.chain{
+    width: 400px;
+    height: 200px;
+    background-color: rgb(0, 0, 0);
+    border-style: solid;
+
+
+}
+.a1{
+    width: 400px;
+    height: 66px;
+    background-color: rgb(0, 0, 0);
+   
+   }
+.a2{
+    width: 400px;
+    height: 67px;
+    background-color: rgb(255, 0, 0);
+  
+   }
+.a3{
+    width: 400px;
+    height: 67px;
+    background-color:yellow;
+   }
+   .A4{ 
+    width: 400px;
+    height: 200px;
+    background: rgb(255, 255, 255);
+    border-style: solid;
+   }
+   .a5{
+    width: 200px;
+    height: 200px;
+    background: green;
+   }
+    .A6{ 
+    width: 400px;
+    height: 200px;
+    background: rgb(255, 255, 255);
+    border-style: solid;
+      }
+      .a7{
+        width: 400px;
+        height: 67px;
+        background: aqua;
+      }
+      .a8{
+        width: 400px;
+        height: 67px;
+        background: rgb(255, 255, 255);
+
+      }
+      .a9{
+        width: 400px;
+        height: 66px;
+        background:aqua;
+      }
+          .A10{ 
+    width: 400px;
+    height: 200px;
+    background: rgb(255, 255, 255);
+    border-style: solid;
+      }
+     .a11{
+        width: 400px;
+        height: 67px;
+        background: rgb(255, 43, 43);
+            }
+     .a12{
+        width: 400px;
+        height: 67px;
+        background: rgb(255, 255, 255);
+            }
+     .a13{
+        width: 400px;
+        height: 67px;
+        background: rgb(255, 43, 43);
+            }
+          .A14{ 
+    width: 400px;
+    height: 200px;
+    background: rgb(255, 255, 255);
+    border-style: solid;
+      }
+     .a15{
+        width: 400px;
+        height: 67px;
+        background: rgb(8, 0, 255);
+            }
+     .a16{
+        width: 400px;
+        height: 67px;
+        background: rgb(255, 0, 0);
+            }
+     .a17{
+        width: 400px;
+        height: 67px;
+        background: rgb(58, 120, 5);
+            }
+    .A18{ 
+    width: 400px;
+    height: 200px;
+    background: rgb(255, 255, 255);
+    border-style: solid;
+    display: flex;
+      }
+     .a19{
+        width:134px;
+        height: 200px;
+        background: blue;
+            }
+     .a20{
+        width: 133px;
+        height: 200px;
+        background: yellow;
+            }
+     .a21{
+        width:134px;
+        height:200px;
+        background: blue;
+        }
+    .A22{ 
+    width: 400px;
+    height: 200px;
+    background: rgb(255, 255, 255);
+    border-style: solid;
+   
+      }
+     .a23{
+        width:400px;
+        height: 67px;
+        background: white;
+            }
+     .a24{
+        width: 400px;
+        height: 67px;
+        background: green;
+            }
+     .a25{
+        width:400px;
+        height:66px;
+        background: red;
+        }
+    .A26{ 
+    width: 400px;
+    height: 200px;
+    background: rgb(255, 255, 255);
+    border-style: solid;   
+    }
+    .a27{
+        width:400px;
+        height:100px;
+        background: white;
+    }
+    .a28{
+        width:400px;
+        height:100px;
+        background: RED;
+    }
+    .a29{
+        width:134px;
+        height:100px;
+        background:blue;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+ 
+
+
+
+    }
+    .a30{
+        width:50px;
+        height:50px;
+        background:white;
+        border-radius: 50%;
+
+    }
+    .A31{ 
+    width: 400px;
+    height: 200px;
+    background: rgb(255, 255, 255);
+    border-style: solid;
+   
+      }
+     .a32{
+        width:400px;
+        height: 100px;
+        background: yellow;
+            }
+     .a33{
+        width: 400px;
+        height: 50px;
+        background: blue;
+            }
+     .a34{
+        width:400px;
+        height:50px;
+        background: red;}
+    .A35{ 
+    width: 400px;
+    height: 200px;
+    background: rgb(255, 255, 255);
+    border-style: solid;
+   
+      }
+     .a36{
+        width:400px;
+        height: 66px;
+        background: green;
+            }
+     .a37{
+        width: 400px;
+        height: 67px;
+        background: yellow;
+            }
+     .a38{
+        width:400px;
+        height:67px;
+        background: red;}
+    .A39{ 
+    width: 400px;
+    height: 200px;
+    background: rgb(255, 255, 255);
+    border-style: solid;
+   
+      }
+     .a40{
+        width:400px;
+        height: 66px;
+        background: white;
+            }
+     .a41{
+        width: 400px;
+        height: 67px;
+        background: red;
+            }
+     .a42{
+        width:400px;
+        height:67px;
+        background: white;
+    }
+    .a43{
+    width: 400px;
+    height:33px ;
+    background: blue;
+}
+    .a44{
+    width: 400px;
+    height:33px ;
+    background: white;
+}
+    .a45{
+    width: 400px;
+    height:34px ;
+    background: blue;
+}
+    .A46{ 
+    width: 400px;
+    height: 200px;
+    background: rgb(255, 255, 255);
+    border-style: solid;
+    display: flex;
+   
+      }
+     .a47{
+        width:134px;
+        height: 200px;
+        background: blue;
+            }
+     .a48{
+        width:134px;
+        height: 200px;
+        background: white;
+            }
+     .a49{
+        width:133px;
+        height:200px;
+        background: red;}
+    .A50{ 
+    width: 400px;
+    height: 200px;
+    background: rgb(255, 255, 255);
+    border-style: solid;
+    display: flex;
+   
+      }
+     .a51{
+        width:134px;
+        height: 200px;
+        background: green;
+            }
+     .a52{
+        width:134px;
+        height: 200px;
+        background: white;
+            }
+     .a53{
+        width:133px;
+        height:200px;
+        background: rgb(255, 131, 43);}
+
+    .A54{ 
+    width: 400px;
+    height: 200px;
+    background: rgb(255, 255, 255);
+    border-style: solid;
+      }
+      .a55{
+        width: 400px;
+        height: 67px;
+        background: red;
+      }
+      .a56{
+        width: 400px;
+        height: 67px;
+        background: white;
+
+      }
+      .a57{
+        width: 400px;
+        height: 66px;
+        background:blue;
+      }
+    .A58{ 
+    width: 400px;
+    height: 200px;
+    background: rgb(255, 255, 255);
+    border-style: solid;
+      }
+      .a59{
+        width: 400px;
+        height: 67px;
+        background: red;
+      }
+      .a60{
+        width: 400px;
+        height: 67px;
+        background: white;
+
+      }
+      .a61{
+        width: 400px;
+        height: 66px;
+        background:green;
+      }
+
+    .A62{ 
+    width: 400px;
+    height: 200px;
+    background: rgb(255, 255, 255);
+  border-style: solid;
+     }
+      .a63{
+        width: 400px;
+        height: 100px;
+        background: red;
+      }
+      .a64{
+        width: 400px;
+        height: 100px;
+        background: white;
+
+      }
+     .A65{ 
+    width: 400px;
+    height: 200px;
+    background: rgb(255, 255, 255);
+    border-style: solid;
+      }
+      .a66{
+        width: 400px;
+        height: 67px;
+        background: yellow;
+      }
+      .a67{
+        width: 400px;
+        height: 67px;
+        background: green;
+
+      }
+      .a68{
+        width: 400px;
+        height: 66px;
+        background:red;
+      }
+     .A69{ 
+    width: 400px;
+    height: 200px;
+    background: rgb(255, 255, 255);
+    border-style: solid;
+      }
+      .a70{
+        width: 400px;
+        height: 67px;
+        background: red;
+      }
+      .a71{
+        width: 400px;
+        height: 67px;
+        background: white;
+
+      }
+      .a72{
+        width: 400px;
+        height: 66px;
+        background:blue;
+      }
+      .A73{
+    width: 400px;
+    height: 200px;
+    background-color:white;
+    display: flex;
+  align-items: center;
+  justify-content: center;
+  border-style: solid;
+ }
+.a74{
+    width: 150px;
+    height: 150px;
+    background-color: red;
+      border-radius: 50%;
+}
+     .A75{ 
+    width: 400px;
+    height: 200px;
+    background: rgb(255, 255, 255);
+    border-style: solid;
+      }
+      .a76{
+        width: 400px;
+        height: 67px;
+        background: white;
+      }
+      .a77{
+        width: 400px;
+        height: 67px;
+        background: aqua;
+
+      }
+      .a78{
+        width: 400px;
+        height: 66px;
+        background:red;
+      }
+     .A79{ 
+    width: 400px;
+    height: 200px;
+    background: rgb(255, 255, 255);
+    border-style: solid;
+    display: flex;
+    
+  
+      }
+      .a80{
+        width: 133px;
+        height: 200px;
+        background: green;
+      }
+      .a81{
+        width: 134px;
+        height: 200px;
+        background: white;
+
+      }
+      .a82{
+        width: 134px;
+        height: 200px;
+        background:green;
+      }
+     .A83{ 
+    width: 400px;
+    height: 200px;
+    background: rgb(255, 255, 255);
+    border-style: solid;
+    display: flex;
+    
+  
+      }
+      .a84{
+        width: 133px;
+        height: 200px;
+        background: red;
+      }
+      .a85{
+        width: 134px;
+        height: 200px;
+        background: white;
+
+      }
+      .a86{
+        width: 134px;
+        height: 200px;
+        background:red;
+      }
+     .A87{ 
+    width: 400px;
+    height: 200px;
+    background: rgb(255, 255, 255);
+    border-style: solid;
+   
+  }
+      .a88{
+        width: 400px;
+        height: 100px;
+        background: white;
+      }
+      .a89{
+        width: 400px;
+        height: 100px;
+        background: red;}
+     .A90{ 
+    width: 400px;
+    height: 200px;
+    background: rgb(255, 255, 255);
+    border-style: solid;
+   
+  }
+      .a91{
+        width: 400px;
+        height: 100px;
+        background: white;
+      }
+      .a92{
+        width: 400px;
+        height: 100px;
+        background: aqua;}
+            .A93{ 
+    width: 400px;
+    height: 200px;
+    background: rgb(255, 255, 255);
+    border-style: solid;
+   
+      }
+     .a94{
+        width:400px;
+        height: 66px;
+        background: white;
+            }
+     .a95{
+        width: 400px;
+        height: 67px;
+        background: blue;
+            }
+     .a96{
+        width:400px;
+        height:67px;
+        background: white;
+    }
+    .a97{
+    width: 400px;
+    height:33px ;
+    background: red;
+}
+    .a98{
+    width: 400px;
+    height:33px ;
+    background: white;
+}
+    .a99{
+    width: 400px;
+    height:34px ;
+    background: red;
+}
+.b1{ 
+    width: 400px;
+    height: 200px;
+    background: rgb(255, 255, 255);
+    border-style: solid;
+    display: flex;
+    
+  
+      }
+      .b2{
+        width: 133px;
+        height: 200px;
+        background: blue;
+      }
+      .b3{
+        width: 134px;
+        height: 200px;
+        background: yellow;
+
+      }
+      .b4{
+        width: 134px;
+        height: 200px;
+        background:red;
+      }
+    .B5{
+      width: 400px;
+      height: 200px;
+      background: green;
+      border-style: solid;
+    } 
+    .b6{
+      width: 400px;
+      height: 100px;
+      background: red;
+
+    }
+.b7{
+        width: 134px;
+      height: 200px;
+      background: white;
+}
+.B8{
+  width: 400px;
+  height: 200px;
+  background: red;
+  border-style: solid;
+}
+.b10{
+  width: 100px;
+  height: 100px;
+  background: rgb(25, 0, 255);
+  justify-content: center;
+  align-items: center;
+  display: flex;
+ }
+.b11{
+  width: 50px;
+  height: 50px;
+  background: white;
+  border-radius: 50%;
+  border-style: dotted;
+}
+
+
+
+
+
+        
+
+
+
+
+
